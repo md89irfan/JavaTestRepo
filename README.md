@@ -6,3 +6,4 @@ To Execute the automation scripts:
 3. Right click on TestRunner.java file under com.runners package in src/test/java folder
 4. Click on Run As "JUnit Test"
 
+Note: Update registration email for each new registration
