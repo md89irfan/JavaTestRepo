@@ -7,3 +7,4 @@ To Execute the automation scripts:
 4. Click on Run As "JUnit Test"
 
 Note: Update registration email for each new registration
+
