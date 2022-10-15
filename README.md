@@ -8,4 +8,3 @@ To Execute the automation scripts:
 
 Note: Update registration email for each new registration
 
-
